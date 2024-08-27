@@ -1,4 +1,4 @@
 [submodule "embed"]
 	branch = main
 	path = embed
-	url = git@github.com:Mintplex-Labs/anythingllm-embed.git
+	url = https://github.com/Mintplex-Labs/anythingllm-embed.git
